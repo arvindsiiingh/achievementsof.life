@@ -5,8 +5,24 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## November 2024
+- Started working at ComposioHQ as senior frontend engineer. 🧑‍💻
+
+## October 2024
+- Travelled to Kazakthstan 🇰🇿, One of the best trips
+- Resigned from the current job (Ernest)
+- Did Grah Pravesh in my new home 🏠
+
+## September 2024
+- Got a reservation in naru (is it really an achievement? 🤔)
+
+## Augut 2024
+- Nothing much to say
+
 ## July 2024
+- Got my first home 🏠
 - Delivered first conference talk at [ReactNexus 2024](https://reactnexus.com/) about framer-motion 🪄
+
 
 ## June 2024
 - No updates :/
