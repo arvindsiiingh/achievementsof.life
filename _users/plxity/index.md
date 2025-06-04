@@ -4,6 +4,51 @@ Twitter: 'https://twitter.com/apoorv_taneja'
 Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
+
+## November 2024
+- Started working at ComposioHQ as senior frontend engineer. 🧑‍💻
+
+## October 2024
+- Travelled to Kazakthstan 🇰🇿, One of the best trips
+- Resigned from the current job (Ernest)
+- Did Grah Pravesh in my new home 🏠
+
+## September 2024
+- Got a reservation in naru (is it really an achievement? 🤔)
+
+## Augut 2024
+- Nothing much to say
+
+## July 2024
+- Got my first home 🏠
+- Delivered first conference talk at [ReactNexus 2024](https://reactnexus.com/) about framer-motion 🪄
+
+
+## June 2024
+- No updates :/
+
+## May 2024
+- Travelled to some off-beat villages in Himachal Pradesh 🏔️ - [Link](https://twitter.com/apoorv_taneja/status/1784142529983852846)
+
+## April 2024
+- No big updates, just a meh month
+
+## March 2024
+- Continued eating clean and lost 2.5kgs
+- Rest of the month was meh
+
+## Feburary 2024
+- Copped Chicago Split dunk 👟
+- Started eating clean and lost 1.5Kgs
+- Travelled to goa 🏖
+
+## January 2024
+- Completed one month in a new job 🧑‍💻
+- Started contributing to OSS after a long time [Link](https://github.com/plxity?org=documenso&year_list=3)
+- Started working on a side project.
+- Upgraded to iphone 15
+
+
 ## December 2023
 - Started a new job at a startup as a senior frontend engineer 🧑‍💻
 - Celebrated 24th with my friends 🎁
